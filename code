@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deepak Verma | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Deepak Verma</h1>
+    <p>CSE Student | Arduino & Python Beginner</p>
+</header>
+
+<section class="about">
+    <h2>About Me</h2>
+    <p>I am a B.Tech CSE student who loves working on Arduino and beginner programming projects.
+       I am passionate about technology and always eager to learn new things.</p>
+</section>
+
+<section class="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>Arduino Projects</li>
+        <li>Python Programming</li>
+        <li>C Language Basics</li>
+        <li>HTML & CSS Beginner</li>
+    </ul>
+</section>
+
+<section class="projects">
+    <h2>Projects</h2>
+    <ul>
+        <li>Gas Detector System using MQ Sensor</li>
+        <li>LED Blinking Arduino Program</li>
+    </ul>
+</section>
+
+<section class="contact">
+    <h2>Contact</h2>
+    <p>Email: <deepakv00119@gmail.com</strong></p>
+</section>
+
+<footer>
+    <p>© 2025 Deepak Verma</p>
+</footer>
+
+</body>
+</html>
